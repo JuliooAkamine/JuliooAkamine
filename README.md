@@ -1,4 +1,22 @@
-### Hi there 👋
+### Seja Bem Vindo👋
+<div style="display: inline_block"><br>
+  <img align="center" alt="Julio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Julio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Julio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+ 
+</div>
+<br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juliooakamine)
+
+<br>
+
+
+
+<br>
+
+<br>
+
 
 <!--
 **JuliooAkamine/JuliooAkamine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
